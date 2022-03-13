@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="GPS_tv">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="agree">Agree</string>
+    <string name="select_country">Select a Country</string>
+     <string name="daily">Daily</string>
+    <string name="cities">Cities</string>
+
+
+    <string-array name="CITIES">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+    </string-array>
+</resources>
